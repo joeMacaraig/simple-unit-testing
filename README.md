@@ -1,2 +1,3 @@
 # simple-unit-testing
-simple unit testing using python
+
+Simple unit testing using python. Using the unittest import to help with testing.
